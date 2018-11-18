@@ -1,4 +1,4 @@
-package com.kodntio.restapi.rest
+package com.kodnito.restapi.rest
 
 import javax.ws.rs.ApplicationPath
 import javax.ws.rs.core.Application
